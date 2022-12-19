@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<students>
+<student>
+<name>Ivan Ivanov</name>
+<grade>4.8</grade>
+</student>
+<student>
+<name>Egor Petrov</name>
+<grade>3.9</grade>
+</student>
+<student>
+<name>Maria Kuznetsova</name>
+<grade>5.0</grade>
+</student>
+<student>
+<name>Stepan Kuzmin</name>
+<grade>3.6</grade>
+</student>
+<student>
+<name>Fedor Guev</name>
+<grade>4.4</grade>
+</student>
+</students>

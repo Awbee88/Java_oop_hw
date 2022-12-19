@@ -1,0 +1,5 @@
+Ivan Ivanov=4.8
+Egor Petrov=3.9
+Maria Kuznetsova=5.0
+Stepan Kuzmin=3.6
+Fedor Guev=4.4
